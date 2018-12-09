@@ -1,5 +1,5 @@
 import com.oracelwpd.ddbookmarket.util.MD5Util;
-
+//我一塔万隆。。
 public class MianA {
     //ssss
     public static void main(String[] arge)throws Exception{
